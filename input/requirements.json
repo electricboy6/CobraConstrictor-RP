@@ -1,0 +1,14 @@
+{
+    "_comment": "These are demo values. These are all of the arguments that there are. You do must set them.",
+    "word_size": 8,
+    "register_count": 16,
+    "RAM_word_count": 32,
+    "serial_ports": 4,
+    "hex_serial_ports": 1,
+    "has_RNET": true,
+    "has_ROS": true,
+    "display": {
+        "x": 16,
+        "y": 16
+    }
+}
