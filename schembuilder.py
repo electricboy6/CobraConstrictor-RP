@@ -35,7 +35,7 @@ def oneBitROM(x, z):
     zOff = z * 2
     # sequence of blocks to make one bit of ROM
     # making the signal wire
-    schem.setBlock((mapBlock(0, xOff), -1, mapBlock(100000, zOff)), "minecraft:white_concrete")
+    schem.setBlock((mapBlock(0, xOff), -1, mapBlock(1, zOff)), "minecraft:white_concrete")
     schem.setBlock((mapBlock(1, xOff), -1, mapBlock(0, zOff)), "minecraft:white_concrete")
     schem.setBlock((mapBlock(0, xOff), 0, mapBlock(0, zOff)), "minecraft:redstone_wire")
     schem.setBlock((mapBlock(1, xOff), 0, mapBlock(0, zOff)), "minecraft:redstone_wire")
