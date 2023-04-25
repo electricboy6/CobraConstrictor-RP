@@ -1,5 +1,5 @@
 {
-    "_comment": "These are demo values. These are all of the arguments that there are. You do must set them.",
+    "_comment": "These are demo values. These are all of the arguments. You must set them.",
     "word_size": 8,
     "register_count": 16,
     "RAM_word_count": 32,
