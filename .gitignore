@@ -1,3 +1,5 @@
 __pycache__/**
 output/out.rp
+output/ROM.schem
 temp/rp.pickle
+.github/**
